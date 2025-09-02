@@ -9,7 +9,7 @@ on:
     -cron : 00 14 * * 1-5 
 
 jobs:
-  run-psotman-tests:
+  run-postman-tests:
     runs-on: ubuntu-latest
 
     steps:
